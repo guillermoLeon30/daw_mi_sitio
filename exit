@@ -1,0 +1,86 @@
+[33mcommit 2c4ec77086a9d1fd7a611ebbbed69c6664e5fa33[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: leon <gleon2611@gmail.com>
+Date:   Sat Oct 21 12:48:35 2017 -0500
+
+    master protegido
+
+[33mcommit c9d219080e8f0e061aa247abfaf4a1ed7794957f[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: leon <gleon2611@gmail.com>
+Date:   Sat Oct 21 12:45:19 2017 -0500
+
+    gitignor
+
+[33mcommit 8ba14c66110601855109498b3f95d209205f5b0f[m
+Merge: 715d1ca f47bcaf
+Author: leon <gleon2611@gmail.com>
+Date:   Sat Oct 21 12:26:33 2017 -0500
+
+    mescla
+
+[33mcommit f47bcafd8d3f0b33a0d02066ef6ba85a632686f1[m
+Author: guillermoLeon26 <31398169+guillermoLeon26@users.noreply.github.com>
+Date:   Sat Oct 21 12:04:35 2017 -0500
+
+    Initial commit
+
+[33mcommit 715d1cab015ebb541e44a5096928c18aedbe3302[m
+Merge: 0082d0e 78cdf6e
+Author: leon <leon_z10@hotmail.com>
+Date:   Sat Oct 21 11:54:03 2017 -0500
+
+    mecha de las ramas
+
+[33mcommit 0082d0ed9d8688e816a0701004f504d0074af566[m
+Merge: 247c262 8e70a73
+Author: leon <leon_z10@hotmail.com>
+Date:   Sat Oct 21 11:48:58 2017 -0500
+
+    Merge branch 'less'
+
+[33mcommit 78cdf6e67a9f3e674a6bd33bd2d61f9f3b2ffe68[m[33m ([m[1;32mjquery[m[33m)[m
+Author: leon <leon_z10@hotmail.com>
+Date:   Sat Oct 21 11:47:00 2017 -0500
+
+    jqu2222
+
+[33mcommit d322a8e72f3489bfc4466ce19e10e657e5af25af[m
+Author: leon <leon_z10@hotmail.com>
+Date:   Sat Oct 21 11:45:07 2017 -0500
+
+    cambio por jquery
+
+[33mcommit 247c262be9297b285222e0a6bb2c40ac48504737[m
+Author: leon <leon_z10@hotmail.com>
+Date:   Sat Oct 21 11:42:04 2017 -0500
+
+    agregado por master
+
+[33mcommit 8e70a7374d4e070d6c6f9fe2383adddf584c7fa6[m[33m ([m[1;32mless[m[33m)[m
+Author: leon <leon_z10@hotmail.com>
+Date:   Sat Oct 21 11:36:21 2017 -0500
+
+    soporte para less
+
+[33mcommit 4676214bc0691410b19bab5e02fb3c1e5fa4569e[m
+Author: leon <leon_z10@hotmail.com>
+Date:   Sat Oct 21 11:09:21 2017 -0500
+
+    mod ind
+
+[33mcommit 67c944fe04d9e0544580b3f161f277ff3a9bd5bc[m
+Author: leon <leon_z10@hotmail.com>
+Date:   Sat Oct 21 11:05:52 2017 -0500
+
+    Aregar Responsive
+
+[33mcommit 938248ca633c1d05d3342b616de1239a88c275f2[m[33m ([m[1;33mtag: 1.0[m[33m)[m
+Author: leon <leon_z10@hotmail.com>
+Date:   Sat Oct 21 10:40:42 2017 -0500
+
+    agrege el archivo index.js
+
+[33mcommit 8e6d4c788f2bbfcc90888b9a96c5c810b68cfc65[m
+Author: leon <leon_z10@hotmail.com>
+Date:   Sat Oct 21 10:39:45 2017 -0500
+
+    inicio de proyecto
